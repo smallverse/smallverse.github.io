@@ -5,7 +5,7 @@
 
 ---
 
-> **_受此_**[**_文章_**](https://github.com/rainzhaojy/blogs/issues/1)**_影响，使用_**[**_issues_**](https://github.com/xiaonaoer/xiaonaoer.github.io/issues)**_作为blog，另可以直接关注我的[notion](https://www.notion.so/1ceed9ce7ba645f7a268a0ee22e12a1d?v=1afe020ce4a54ec99396923bab64ed60)、[语雀](https://www.yuque.com/xiaonaoer)_**
+> **_受此_**[**_文章_**](https://github.com/rainzhaojy/blogs/issues/1)**_影响，使用_**[**_issues_**](https://github.com/xiaonaoer/xiaonaoer.github.io/issues)**_作为blog，另可以直接关注我的[notion](https://www.notion.so/Personal-Home-76487e2c42034519898aae8a25d05cae)、[语雀](https://www.yuque.com/xiaonaoer)_**
 
 
 ---

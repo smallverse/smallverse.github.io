@@ -1,1 +1,10 @@
+## 基础
+- [w3cschool](https://www.w3cschool.cn/)
+- [菜鸟教程](https://www.runoob.com/)
 
+## 博客
+
+- [阮一峰个人博客](http://www.ruanyifeng.com/home.html)
+- [阮一峰网络日志](http://www.ruanyifeng.com/blog/)
+- [廖雪峰官方网站](https://www.liaoxuefeng.com/)
+- [陈皓](https://www.coolshell.cn/)

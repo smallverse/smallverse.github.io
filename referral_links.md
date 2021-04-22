@@ -3,7 +3,7 @@
 - [菜鸟教程](https://www.runoob.com/)
 
 ## 博客
-> (广告痕迹过重的请自行忽略)
+> (如广告痕迹过重的请自行忽略,请具备独立自主的能力)
 
 - [陈皓](https://www.coolshell.cn/)
 - [阮一峰个人博客](http://www.ruanyifeng.com/home.html)

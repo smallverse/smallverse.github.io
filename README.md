@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
 ---
 
-> **_受此_**[**_文章_**](https://github.com/rainzhaojy/blogs/issues/1)**_影响，使用_**[**_issues_**](https://github.com/xiaonaoer/xiaonaoer.github.io/issues)**_作为blog，另可以直接关注我的[google 协作站点](https://big-ears-cat.jfzhai.top/)、[语雀](https://www.yuque.com/xiaonaoer)_**
+> **_受此_**[**_文章_**](https://github.com/rainzhaojy/blogs/issues/1)**_影响，使用_**[**_issues_**](https://github.com/xiaonaoer/xiaonaoer.github.io/issues)**_作为blog，另可以直接关注我的[google 协作站点](https://big-ears-cat.jfzhai.top/)、[语雀](https://www.yuque.com/zhaijf1992)_**
 
 
 ---

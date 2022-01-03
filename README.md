@@ -86,6 +86,8 @@ if __name__ == '__main__':
 <a name="fvcR9"></a>
 ## 2 推荐链接
 > [链接](https://github.com/xiaonaoer/xiaonaoer.github.io/blob/master/referral_links.md)
+> [不常用账号colaverse](https://github.com/colaverse)
+> [参与开源（主要实现在内部企业版）](https://github.com/SharpAI/DeepCamera/commits?author=colaverse)
 
 
 ---
